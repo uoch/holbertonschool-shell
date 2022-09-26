@@ -1,0 +1,10 @@
+total 44 drwxr-xr-x 2 root root 211 Sep 26 05:55 . drwxr-xr-x 6 root 
+root 86 Sep 26 04:36 .. -rwxr--r-- 1 root root 32 Sep 26 04:42 
+0-hello_world -rwxr--r-- 1 root root 28 Sep 26 04:53 1-confused_smiley 
+-rwxr--r-- 1 root root 28 Sep 26 04:56 2-hellofile -rwxr--r-- 1 root 
+root 39 Sep 26 05:05 3-twofiles -rwxr--r-- 1 root root 29 Sep 26 05:10 
+4-lastlines -rwxr--r-- 1 root root 30 Sep 26 05:16 5-firstlines 
+-rwxr--r-- 1 root root 39 Sep 26 05:33 6-third_line -rwxr--r-- 1 root 
+root 87 Sep 26 05:44 7-file -rw-r--r-- 1 root root 13 Sep 26 05:55 
+8-cwd_state -rw-r--r-- 1 root root 728 Sep 26 05:31 iacta -rw-r--r-- 1 
+root root 36 Sep 26 04:42 README.md
