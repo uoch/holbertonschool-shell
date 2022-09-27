@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -mtime +2000 | head
+find . -type f  | head
