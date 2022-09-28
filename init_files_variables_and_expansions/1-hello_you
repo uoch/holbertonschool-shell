@@ -1,2 +1,2 @@
 #!/bin/bash
-alias t='echo"hello user"
+echo"hello user"
