@@ -1,7 +1,2 @@
-!# /bin/bash
-NUM1=$(echo "$FT_NBR1" | tr \'\\\\\"\?\! '01234')
-NUM2=$(echo "$FT_NBR2" | tr mrdoc '01234')
-RES=$(echo "obase=13; ibase=5; $NUM1 + $NUM2" | bc)
-
-echo $RES | tr '01234567' 'aio luSnemf'
-
+#!/bin/bash
+printf "%o\n" $((5#$(echo $WATER | tr water 01234) + 5#$(echo $STIR | tr stir. 01234))) | tr 01234567 bestchol
