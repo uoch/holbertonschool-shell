@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 |tr -t "/" "\n"|sort -u| head
+paste - - | cut -f1
